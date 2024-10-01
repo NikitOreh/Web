@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    max-width: 1920px;
+    padding: 0 160px;
+}
+    .inter-medium {
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 1;
+        font-style: normal;
+      }
+
+
+/* .container {
+    max-width: 1920px;
+    padding: 0 160px;
+} */
